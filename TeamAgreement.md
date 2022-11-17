@@ -1,5 +1,14 @@
 # Final Project for Code Fellows 401
 
+## The Team
+
+- Tim Traylor
+- Stephen Clemmer
+- Luis Rosales
+- Mary Kariuki
+- Tyler Main
+- Robert Shepley
+
 ## Resources
 
 ### Group Project: Team Agreement
